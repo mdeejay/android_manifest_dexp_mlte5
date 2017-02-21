@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Dexp M 5 LTE -->
+    <project path="device/DEXP/MLTE5" name="DX37/android_device_dexp_mlte5" revision="cm-13.0" />
+    <project path="kernel/cyanogen/msm8916" name="DX37/android_kernel_dexp_mlte5" revision="cm-13.0" />
+    <project path="vendor/DEXP/MLTE5" name="DX37/android_vendor_dexp_mlte5" revision="cm-13.0" />
+
+    <!-- CyanogenMod dependencies -->
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-13.0" />
+    <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-13.0" />
+    <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" revision="cm-13.0" />
+
+</manifest>
