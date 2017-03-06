@@ -4,7 +4,6 @@
     <project path="device/DEXP/MLTE5" name="DX37/android_device_dexp_mlte5" revision="cm-14.1" />
     <project path="kernel/cyanogen/msm8916" name="DX37/android_kernel_cyanogen_msm8916" revision="master" />
     <project path="vendor/DEXP/MLTE5" name="DX37/android_vendor_dexp_mlte5" revision="cm-14.1" />
-    <project path="vendor/qcom/binaries" name="TheMuppets/proprietary_vendor_qcom_binaries" revision="cm-14.1" />
 
     <!-- CyanogenMod dependencies -->
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" />
