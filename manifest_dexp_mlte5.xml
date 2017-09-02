@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Dexp M 5 LTE -->
-    <project path="device/DEXP/MLTE5" name="mdeejay/android_device_dexp_mlte5-1" revision="cm-14.1" />
+    <project path="device/DEXP/MLTE5" name="mdeejay/android_device_dexp_mlte5-1" revision="mkn-mr1" />
     <project path="kernel/cyanogen/msm8916" name="mdeejay/android_kernel_cyanogen_msm8916-1" revision="cm-14.1" />
     <project path="vendor/DEXP/MLTE5" name="mdeejay/android_vendor_dexp_mlte5" revision="cm-14.1" />
 
