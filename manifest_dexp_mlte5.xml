@@ -5,9 +5,9 @@
     <project path="kernel/cyanogen/msm8916" name="mdeejay/android_kernel_cyanogen_msm8916-1" revision="cm-14.1" />
     <project path="vendor/DEXP/MLTE5" name="mdeejay/android_vendor_dexp_mlte5" revision="cm-14.1" />
 
-    <!-- CyanogenMod dependencies -->
-    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" />
-    <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1" />
-    <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" revision="cm-14.1" />
+    <!-- Mokee dependencies -->
+    <project path="device/qcom/common" name="mokee/android_device_qcom_common" revision="mkn-mr1" />
+    <project path="external/stlport" name="mokee/android_external_stlport" revision="mkn-mr1" />
+    <project path="device/cyanogen/msm8916-common" name="mokee/android_device_cyanogen_msm8916-common" revision="mkn-mr1" />
 
 </manifest>
