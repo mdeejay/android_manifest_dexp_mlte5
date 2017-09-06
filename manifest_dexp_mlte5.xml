@@ -5,11 +5,11 @@
            fetch="https://github.com/" />
 
     <!-- Dexp M 5 LTE -->
-    <project path="device/DEXP/MLTE5" name="mdeejay/android_device_dexp_mlte5-1" remote="github" revision="cm-14.1" />
+    <project path="device/DEXP/MLTE5" name="mdeejay/android_device_dexp_mlte5-1" remote="github" revision="aex" />
     <project path="kernel/cyanogen/msm8916" name="mdeejay/android_kernel_cyanogen_msm8916-1" remote="github" revision="cm-14.1" />
     <project path="vendor/DEXP/MLTE5" name="mdeejay/android_vendor_dexp_mlte5" remote="github" revision="cm-14.1" />
 
     <!-- CyanogenMod dependencies -->
-    <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github"  revision="cm-14.1" />
+    <project path="device/cyanogen/msm8916-common" name="mdeejay/android_device_cyanogen_msm8916-common" remote="github"  revision="aex" />
 
 </manifest>
